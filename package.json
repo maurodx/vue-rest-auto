@@ -1,8 +1,11 @@
 {
-  "name": "vue-rest",
+  "name": "vue-rest-auto",
   "version": "1.2.0",
-  "description": "Plugin for using vue + axios for REST API consumption",
+  "description": "Plugin for using vue + axios for REST API auto consumption",
   "author": "Kimura <joseduardo.kimura@gmail.com>",
+  "contributors": [
+    "Mauro Destro <mauroevania@gmail.com>"
+  ],
   "private": false,
   "scripts": {
     "test": "jest --coverage",
